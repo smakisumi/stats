@@ -21,6 +21,7 @@ include('assets/templates/header.tpl.php');
 <h2>Mosts</h2>
 <ul>
   <li><a href="most_competitions.php">Most competitions</a></li>
+  <li><a href="most_us_states.php">Most US states</a></li>
   <li><a href="most_solves.php">Most solves</a></li>
   <li><a href="most_solve_hours.php">Most solve hours</a></li>
   <li><a href="most_solves_with_x_dnfs.php">Most solves with x DNFs</a></li>
